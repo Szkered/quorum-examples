@@ -7,3 +7,5 @@ qdata
 *.log
 
 *node_modules*
+/examples/7nodes/truffle/build/contracts/Migrations.json
+/examples/7nodes/truffle/build/contracts/Permissions.json
